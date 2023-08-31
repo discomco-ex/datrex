@@ -27,7 +27,7 @@ An interesting aspect to observe during this experiment, is the evolution in rea
 
 - VSCode with Erlang and Elixir Extensions
 - Rider with Erlang and Elixir Extensions
-- Erlang/OTP v25
+- Erlang/OTP v26
 - mix/iex/erl/erlc
 
 ## JOURNAL
